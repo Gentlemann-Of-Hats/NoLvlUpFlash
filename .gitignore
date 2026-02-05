@@ -2,3 +2,6 @@
 [Oo]bj/
 .vs/
 *.user
+*.bat
+NolvlupFlash.dll
+NolvlupFlash_Release.zip
